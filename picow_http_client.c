@@ -8,7 +8,7 @@
 #include "example_http_client_util.h"
 
 #define HOST "serverpico.onrender.com" // O endereço deve ser sem http:// ou https://
-#define URL_REQUEST "/mensagem?msg=" // Não altere essa parte
+#define URL_REQUEST "/mensagem?msg=" // Não altere essa parte pa
 
 #define ADC_MAX 4095
 #define DEADZONE 500
